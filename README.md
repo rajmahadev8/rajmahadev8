@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-@@ -1,27 +1,21 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Raj Mahadevwala <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/MahadevwalaRaj" target="blank"><img src="https://img.shields.io/twitter/follow/MahadevwalaRaj?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
-<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-harikrushn%20kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-Raj%20Mahadevwala-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://rajmahadev8.github.io/" target="_blank"><img src="https://img.shields.io/website?label=rajmahadev8.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Frajmahadev8.github.io" alt="rajmahadev8.github.io" /></a>
 
 <!-- <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp -->
@@ -56,7 +55,6 @@ Here are some ideas to get you started:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 <h3 align="left"> 🤝 Connect with me:</h3>
-## 🌐 Languages and Tools :
 <p align="left">
 <a href="https://dev.to/rajmahadev8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harikanani" height="30" width="40" style="color:white" /></a>
 <a href="https://twitter.com/MahadevwalaRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MahadevwalaRaj" height="30" width="40" style="color:white" /></a>
@@ -94,35 +92,12 @@ Here are some ideas to get you started:
     <a href="https://www.javascript.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
     </a> 
-@@ -98,6 +54,27 @@
-        <a href="https://redis.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://devdocs.io/c/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.java.com/en/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.php.net/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
-    </a> 
+
+ 
     <a href="https://dart.dev/" target="_blank"> 
         <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
     </a>
-@@ -109,13 +86,7 @@
+
     </a>   
     <a href="https://www.vim.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/></code> 
@@ -140,7 +115,6 @@ Here are some ideas to get you started:
     <a href="https://postman.com" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
     </a> 
-@@ -158,26 +126,15 @@
     <a href="https://ubuntu.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
     </a>
