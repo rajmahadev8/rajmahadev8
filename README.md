@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/MahadevwalaRaj" target="blank"><img src="https://img.shields.io/twitter/follow/MahadevwalaRaj?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
-<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-raj-mahadevwala-9549111ba?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-harikrushn%20kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://rajmahadev8.github.io/" target="_blank"><img src="https://img.shields.io/website?label=rajmahadev8.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Frajmahadev8.github.io" alt="rajmahadev8.github.io" /></a>
 
 <!-- <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp -->
@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [iNotebook App]
 
-@@ -37,46 +31,8 @@
-
 - ⚡ Fun fact **I love to Develop and Design**
 
 <h3> 🏆 Badges </h3>
@@ -60,11 +58,10 @@ Here are some ideas to get you started:
 <h3 align="left"> 🤝 Connect with me:</h3>
 ## 🌐 Languages and Tools :
 <p align="left">
-<a href="https://dev.to/rajmahadev8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harikanani" height="30" width="40" /></a>
-<a href="https://twitter.com/MahadevwalaRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MahadevwalaRaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj-mahadevwala-9549111ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-mahadevwala-9549111ba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12286889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12286889" height="30" width="40" /></a>
-<a href="https://instagram.com/rajmahadev08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kanani_025" height="30" width="40" /></a>
+<a href="https://dev.to/rajmahadev8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harikanani" height="30" width="40" style="color:white" /></a>
+<a href="https://twitter.com/MahadevwalaRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MahadevwalaRaj" height="30" width="40" style="color:white" /></a>
+<a href="https://linkedin.com/in/raj-mahadevwala-9549111ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-mahadevwala-9549111ba" height="30" width="40" style="color:white" /></a>
+<a href="https://instagram.com/rajmahadev08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kanani_025" height="30" width="40" style="color:white"/></a>
 <!-- <a href="https://www.codechef.com/users/harikanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harikanani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hkanani191" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@hkanani191" height="30" width="40" /></a>
