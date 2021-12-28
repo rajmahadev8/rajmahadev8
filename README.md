@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Web Developer, Programmer, and Freelancer!!</h3>
 
 <p>
-    <a href="https://github.com/harikanani/"><img src="https://img.shields.io/github/followers/harikanani?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://github.com/harikanani?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="mailto:harikanani2003@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Harikrushn :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <a href="https://github.com/rajmahadev8/"><img src="https://img.shields.io/github/followers/rajmahadev8?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/rajmahadev8?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="mailto:rajmahadevwala1@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Raj :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
     <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
   </p>
@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/MahadevwalaRaj" target="blank"><img src="https://img.shields.io/twitter/follow/MahadevwalaRaj?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
-<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-harikrushn%20kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://rajmahadev8.github.io/" target="_blank"><img src="https://img.shields.io/website?label=rajmahadev8.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="rajmahadev8.github.io" /></a>
-<a href="https://twitter.com/MahadevwalaRaj" target="blank"><img src="https://img.shields.io/twitter/follow/MahadevwalaRaj?logo=twitter&style=for-the-badge" alt="MahadevwalaRaj" /></a>&nbsp
-<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-raj-mahadevwala-9549111ba?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://rajmahadev8.github.io/" target="_blank"><img src="https://img.shields.io/website?label=rajmahadev8.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Frajmahadev8.github.io" alt="rajmahadev8.github.io" /></a>
+
 <!-- <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp -->
    <a href="mailto:rajmahadevwala1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rajmahadevwala1@gmail.com" />
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 🧑 About me </h3>
-<h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
+<h3> 🧑 I'm a Web Developer, Programmer and Freelancer!!</h3>
 
 - 🔭 I’m currently working on [iNotebook App]
 
@@ -61,17 +60,17 @@ Here are some ideas to get you started:
 <h3 align="left"> 🤝 Connect with me:</h3>
 ## 🌐 Languages and Tools :
 <p align="left">
-<a href="https://dev.to/harikanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harikanani" height="30" width="40" /></a>
-<a href="https://twitter.com/harikrushn9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harikrushn9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harikrushn-kanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harikrushn-kanani" height="30" width="40" /></a>
+<a href="https://dev.to/rajmahadev8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harikanani" height="30" width="40" /></a>
+<a href="https://twitter.com/MahadevwalaRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MahadevwalaRaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raj-mahadevwala-9549111ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-mahadevwala-9549111ba" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12286889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12286889" height="30" width="40" /></a>
-<a href="https://instagram.com/kanani_025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kanani_025" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harikanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harikanani" height="30" width="40" /></a>
+<a href="https://instagram.com/rajmahadev08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kanani_025" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/harikanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harikanani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hkanani191" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@hkanani191" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hkanani191" height="30" width="40" /></a>
 </p>
-
+ -->
 <h3 align="left">🌐 Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> 
@@ -128,12 +127,6 @@ Here are some ideas to get you started:
     </a>
 @@ -109,13 +86,7 @@
     </a>   
-    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://atom.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/></code> 
-    </a>
     <a href="https://www.vim.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/></code> 
     </a> 
@@ -164,23 +157,23 @@ Here are some ideas to get you started:
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajmahadev8&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=tokyonight" />
 </div>
 
 <h3 align="left"> 🧡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harikanani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harikanani" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/rajmahadev8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajmahadev8" /></a></p><br><br><br>
 
 <h3> ⚡ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="harikanani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmahadev8&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="rajmahadev8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="harikanani" height="195px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmahadev8&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="rajmahadev8" height="195px"/></p>
 <br><br><br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark" alt="harikanani" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=dark" alt="rajmahadev8" /></p> -->
 <br/>  
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark)
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=harikanani&theme=nord) 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=dark)
+![rajmahadev8's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajmahadev8&theme=nord) 
 
 <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=harikanani&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rajmahadev8&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
