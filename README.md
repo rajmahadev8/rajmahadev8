@@ -1,5 +1,5 @@
 ### Hello Folks 👋
-![](https://media.discordapp.net/attachments/883218301260550199/925666478798299217/RAJ_MAHADEVWALA.gif)
+!['Img'](https://media.discordapp.net/attachments/883218301260550199/925666478798299217/RAJ_MAHADEVWALA.gif)
 
 <!--
 **rajmahadev8/rajmahadev8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://media.discordapp.net/attachments/883218301260550199/925666478798299217/RAJ_MAHADEVWALA.gif)
+
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Raj Mahadevwala <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
