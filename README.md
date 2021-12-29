@@ -1,5 +1,6 @@
 ### Hello Folks 👋
-!['Img'](https://media.discordapp.net/attachments/883218301260550199/925666478798299217/RAJ_MAHADEVWALA.gif)
+<img alt="Night Coding" src="https://cdn.discordapp.com/attachments/883218301260550199/925666478798299217/RAJ_MAHADEVWALA.gif" />
+
 
 <!--
 **rajmahadev8/rajmahadev8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
