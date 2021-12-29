@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Folks 👋
 
 <!--
 **rajmahadev8/rajmahadev8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 <h3> 🧑 I'm a Web Developer, Programmer and Freelancer!!</h3>
 
 - 🔭 I’m currently working on [iNotebook App]
-
+- 🌱 I’m currently learning MERN Stack
+- 💬 Ask me about **C,Python,JavaScript,Java,Flutter**
+- 📫 How to reach me: **rajmahadevwala1@gmail.com**
+-  📄 Know about my experiences [https://www.linkedin.com/in/raj-mahadevwala-9549111ba/](https://www.linkedin.com/in/raj-mahadevwala-9549111ba/)
 - ⚡ Fun fact **I love to Develop and Design**
 
 <h3> 🏆 Badges </h3>
@@ -68,27 +71,6 @@ Here are some ideas to get you started:
  -->
 <h3 align="left">🌐 Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.javascript.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="Type Script" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://nodejs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://www.npmjs.com/package/express" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://www.npmjs.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://redis.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
-    </a> 
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 
@@ -110,6 +92,24 @@ Here are some ideas to get you started:
     <a href="https://www.php.net/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
     </a> 
+    <a href="https://www.javascript.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="Type Script" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://nodejs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://www.npmjs.com/package/express" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://redis.io/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
+    </a> 
     <a href="https://dart.dev/" target="_blank"> 
         <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
     </a>
@@ -118,18 +118,18 @@ Here are some ideas to get you started:
     </a>
     <a href="https://getbootstrap.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
-    </a>   
-    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
+    </a>    
+    <a href="https://atom.io/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/></code> 
     </a>
+    <a href="https://www.vim.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/></code> 
+    </a> 
     <a href="https://www.heroku.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://github.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
     </a> 
     <a href="https://bitbucket.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="50" height="50"/></code> 
@@ -146,6 +146,9 @@ Here are some ideas to get you started:
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
     </a> 
+    <a href="https://www.nginx.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></code> 
+    </a> 
     <a href="https://postman.com" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
     </a> 
@@ -161,6 +164,12 @@ Here are some ideas to get you started:
     <a href="https://ubuntu.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
     </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.wordpress.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50"/></code> 
+    </a>
 </p>
 
 ## ✨GitHub Stats  : 
@@ -169,19 +178,12 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=tokyonight" />
 </div>
 
-<h3 align="left"> 🧡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rajmahadev8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajmahadev8" /></a></p><br><br><br>
-
-<h3> ⚡ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmahadev8&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="rajmahadev8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmahadev8&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="rajmahadev8" height="195px"/></p>
-<br><br><br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=dark" alt="rajmahadev8" /></p> -->
-<br/>  
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=dark)
-![rajmahadev8's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajmahadev8&theme=nord) 
-
 <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=rajmahadev8&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rajmahadev8&&style=flat-square" align="center" />
+</div>  
+ 
+ ### ![Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajmahadev8&theme=nord) 
+
+
