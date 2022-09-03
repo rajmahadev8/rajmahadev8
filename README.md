@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 <h3> 🧑 About me </h3>
 <h3> 🧑 I'm a Web Developer, Programmer and Freelancer!!</h3>
 
-- 🔭 I’m currently working on [iNotebook App]
-- 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about **C,Python,JavaScript,Java,Flutter**
+- 🔭 I’m currently working on [Expense Manager]
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about **C,Python,JavaScript,Java,React,Node.js**
 - 📫 How to reach me: **rajmahadevwala1@gmail.com**
 -  📄 Know about my experiences [https://www.linkedin.com/in/raj-mahadevwala-9549111ba/](https://www.linkedin.com/in/raj-mahadevwala-9549111ba/)
 - ⚡ Fun fact **I love to Develop and Design**
