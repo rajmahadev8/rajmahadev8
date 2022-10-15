@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="left"> 
 <a href="https://twitter.com/MahadevwalaRaj" target="blank"><img src="https://img.shields.io/twitter/follow/MahadevwalaRaj?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
 <a href="https://www.linkedin.com/in/raj-mahadevwala-9549111ba/"><img src="https://img.shields.io/badge/-Raj%20Mahadevwala-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://rajmahadev8.github.io/" target="_blank"><img src="https://img.shields.io/website?label=rajmahadev8.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Frajmahadev8.github.io" alt="rajmahadev8.github.io" /></a>
+<a href="https://rajmahadevwala.in/" target="_blank"><img src="https://img.shields.io/website?label=rajmahadevwala.in&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Frajmahadevwala.in" alt="rajmahadevwala.in" /></a>
 
 <!-- <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp -->
    <a href="mailto:rajmahadevwala1@gmail.com">
