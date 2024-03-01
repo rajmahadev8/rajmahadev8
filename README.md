@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/> -->
 
-<h3 align="center">I'm a Web Developer, Programmer, and Freelancer!!</h3>
+<h3 align="center">I'm a Developer, Problem Analyst, and Freelancer!!</h3>
 
 <p>
     <a href="https://github.com/rajmahadev8/"><img src="https://img.shields.io/github/followers/rajmahadev8?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
