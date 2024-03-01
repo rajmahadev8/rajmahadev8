@@ -1,5 +1,5 @@
 ### Hello Folks 👋
-<img alt="Night Coding" src="https://cdn.discordapp.com/attachments/883218301260550199/925666478798299217/RAJ_MAHADEVWALA.gif" />
+<img alt="Night Coding" src="" />
 
 
 <!--
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 🧑 About me </h3>
-<h3> 🧑 I'm a Web Developer, Programmer and Freelancer!!</h3>
+<h3> 🧑 I'm a Developer, Problem Analyst and Freelancer!!</h3>
 
-- 🔭 I’m currently working on [Expense Manager]
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about **C,Python,JavaScript,Java,React,Node.js**
+- 🔭 I’m currently working on [Job Recommendation System]
+- 🌱 I’m currently learning Tenserflow, Keras
+- 💬 Ask me about **Python,JavaScript,Java,React,Node.js,Next.js**
 - 📫 How to reach me: **rajmahadevwala1@gmail.com**
 -  📄 Know about my experiences [https://www.linkedin.com/in/raj-mahadevwala-9549111ba/](https://www.linkedin.com/in/raj-mahadevwala-9549111ba/)
 - ⚡ Fun fact **I love to Develop and Design**
