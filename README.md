@@ -1,5 +1,6 @@
 ### Hello Folks 👋
-<img alt="Night Coding" src="https://media.discordapp.net/attachments/938708473775013939/1212981481341853716/RAJ_MAHADEVWALA.GIF?ex=662b2f09&is=6618ba09&hm=50ed53d5b91e3605ac6c388f121a8201321e169356cf902ec44bfc458d8b0add&=&width=1920&height=480" />
+<img alt="Night Coding" src="" />
+![RAJ_MAHADEVWALA](https://github.com/rajmahadev8/rajmahadev8/assets/75351216/0bf27514-bb14-4873-ab6f-dcbfc7c8ae7c)
 
 
 <!--
