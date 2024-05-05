@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </p>
  -->
 <h3 align="left">🌐 Languages and Tools:</h3>
-<p align="left">
+<!-- <p align="left">
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 
@@ -176,6 +176,11 @@ Here are some ideas to get you started:
     <a href="https://www.wordpress.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50"/></code> 
     </a>
+</p> -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,python,java,gradle,git,c,cpp,github,jquery,materialui,html,css,js,react,nextjs,nodejs,php,firebase,mysql,postgres,tensorflow,gcp,replit,devto,vscode&perline=11" />
+  </a>
 </p>
 
 ## ✨GitHub Stats  : 
