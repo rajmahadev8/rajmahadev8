@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hkanani191" height="30" width="40" /></a>
 </p>
  -->
-<h3 align="left">🌐 Languages and Tools:</h3>
+<h3 align="center">🌐 Languages and Tools:</h3>
 <!-- <p align="left">
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 </p> -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,python,java,gradle,git,c,cpp,github,jquery,materialui,html,css,js,react,nextjs,nodejs,php,firebase,mysql,postgres,tensorflow,gcp,replit,devto,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,python,java,gradle,git,c,cpp,github,jquery,materialui,html,css,js,ts,react,nextjs,nodejs,php,firebase,mongodb,prisma,docker,mysql,postgres,tensorflow,gcp,replit,devto,vscode&perline=11" />
   </a>
 </p>
 
