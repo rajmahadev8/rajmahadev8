@@ -30,8 +30,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/rajmahadev8?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="mailto:rajmahadevwala1@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Raj :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-MacOs-c633a5"/>
-    <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
-  </p>
+    
 
 
 ## 💡 Connect with me :
@@ -70,20 +69,20 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/raj-mahadevwala-9549111ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-mahadevwala-9549111ba" height="30" width="40" style="color:white" /></a>
 <a href="https://instagram.com/rajmahadev08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kanani_025" height="30" width="40" style="color:white"/></a>
 
-## 🌐 Languages and Tools:
+## 🌐 Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,flutter,python,java,gradle,git,c,cpp,github,jquery,materialui,html,css,js,ts,react,redux,nextjs,nodejs,express,threejs,php,firebase,supabase,mongodb,prisma,docker,mysql,postgres,tensorflow,gcp,replit,devto,vscode&perline=11" />
   </a>
 </p>
 
-## ✨ GitHub Stats  : 
+## ✨ GitHub Stats : 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajmahadev8&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmahadev8&theme=tokyonight" />
 </div>
-## ⚙️ GitHub Analytics
-<h3>  </h3>
+
+## ⚙️ GitHub Analytics :
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rajmahadev8&&style=flat-square" align="center" />
